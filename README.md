@@ -1,4 +1,8 @@
+<div align="center">
+
 # Hi there, I'm Joanna Zolnik 👋
+
+</div>
 
 I'm a recent Computer Science graduate passionate about building impactful software that solves real problems and advances technology. I specialize in full stack web development, computer graphics, game development, and data visualization.
 
