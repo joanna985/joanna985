@@ -6,22 +6,6 @@
 
 I'm a recent Computer Science graduate passionate about building impactful software that solves real problems and advances technology. I specialize in full stack web development, computer graphics, game development, and data visualization.
 
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joanna985&show_icons=true&theme=radical" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanna985&layout=compact&theme=radical" width="400" height="200"/>
-</div>
-
----
-
-
-### ⚡ GitHub Activity Graph
-
-![Joanna's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joanna985&theme=react-dark)
-
-
 ---
 
 ## 🔧 Technologies & Skills
