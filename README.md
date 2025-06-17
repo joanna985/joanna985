@@ -12,12 +12,6 @@ I'm a recent Computer Science graduate passionate about building impactful softw
 
 ---
 
-### ⚡ GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joanna985&theme=react-dark" width="820" height="200"/>
-</div>
-
 
 ### ⚡ GitHub Activity Graph
 
