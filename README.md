@@ -8,13 +8,6 @@ I'm a recent Computer Science graduate passionate about building impactful softw
 
 ---
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F79A52&center=true&vCenter=true&width=435&lines=Hi+I'm+Joanna+Zolnik;Software+Developer;React+%7C+C%2B%2B+%7C+AWS+%7C+Java;Let's+Build+Something+Cool!)
-
-</div>
-
-
 
 ## 🔧 Technologies & Skills
 
